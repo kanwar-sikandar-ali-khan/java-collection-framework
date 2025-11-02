@@ -5,6 +5,8 @@ public class collectionInterface {
 
 }
 
+
+
 //Collection Interface Methods:
 //        ─────────────────────────────────────────────
 //int size(); → Returns number of elements.

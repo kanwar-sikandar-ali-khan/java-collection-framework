@@ -3,7 +3,7 @@ package com.collectionFramework.collectionInterface.ListInterface;
 import java.util.ArrayList;
 import java.util.List;
 
-public class LearnListIIntterface {
+public class ListIIntterface {
 
     public static void main(String[] args) {
 
@@ -43,6 +43,7 @@ public class LearnListIIntterface {
     }
 }
 
+//Comparison of all Classes in the List interface
 
 //| Class        | Key Feature             | Thread Safe | Best Use Case                          |
 //        | ------------ | ----------------------- | ----------- | -------------------------------------- |
