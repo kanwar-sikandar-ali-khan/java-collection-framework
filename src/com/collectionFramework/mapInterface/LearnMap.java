@@ -1,4 +1,5 @@
-import java.util.HashMap;
+package com.collectionFramework.mapInterface;
+
 import java.util.Map;
 import java.util.TreeMap;
 

@@ -1,3 +1,5 @@
+package com.collectionFramework.collectionInterface.QueueInterface;
+
 import java.util.LinkedList;
 import java.util.Queue;
 

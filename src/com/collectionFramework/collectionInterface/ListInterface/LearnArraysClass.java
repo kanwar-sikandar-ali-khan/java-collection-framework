@@ -1,3 +1,5 @@
+package com.collectionFramework.collectionInterface.ListInterface;
+
 import java.util.Arrays;
 
 public class LearnArraysClass {

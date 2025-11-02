@@ -1,11 +1,12 @@
-package com.collectionFramework.ListInterface;
+package com.collectionFramework.collectionInterface.ListInterface;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArrayListClass {
+public class LearnListIIntterface {
 
     public static void main(String[] args) {
+
         List<String> list = new ArrayList<>();
 
         // Add elements
@@ -41,3 +42,11 @@ public class ArrayListClass {
         System.out.println("Is Empty? " + list.isEmpty());
     }
 }
+
+
+//| Class        | Key Feature             | Thread Safe | Best Use Case                          |
+//        | ------------ | ----------------------- | ----------- | -------------------------------------- |
+//        | ArrayList    | Fast random access      | ❌           | Frequent reading                       |
+//        | LinkedList   | Fast insertion/deletion | ❌           | Frequent insertions in middle or ends  |
+//        | Vector       | Synchronized (legacy)   | ✅           | When thread safety is required         |
+//        | Stack        | LIFO behavior           | ✅           | Stack-based processing (undo, parsing) |
