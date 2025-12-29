@@ -1,9 +1,11 @@
 package com.collectionFramework.collectionInterface.ListInterface;
 
+import com.collectionFramework.Student;
+
 import java.util.HashSet;
 import java.util.Set;
 
-public class LearnSet {
+class LearnSet {
 
     public static void main(String[] args) {
 
