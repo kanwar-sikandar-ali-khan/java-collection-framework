@@ -51,6 +51,7 @@ class Employee {
                 ", salary=" + salary +
                 '}';
     }
+
 }
 
 public class EqualshashExample {
